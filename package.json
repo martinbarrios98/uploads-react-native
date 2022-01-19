@@ -1,0 +1,11 @@
+{
+  "name": "uploads",
+  "version": "1.0.0",
+  "description": "Primeros proyectos de React Native ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Rafael Martinez Barrios",
+  "license": "ISC"
+}
