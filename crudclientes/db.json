@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "Martin Barrios",
+      "telefono": "9321081120",
+      "correo": "Martin.cristo@hotmail.com",
+      "empresa": "BizeSpam",
+      "id": 1
+    },
+    {
+      "nombre": "Valeria Falcon",
+      "telefono": "9321081122",
+      "correo": "Correo2@correo.com",
+      "empresa": "Udemy",
+      "id": 3
+    },
+    {
+      "nombre": "Martha Elena Diaz",
+      "telefono": "9321081123",
+      "correo": "Correo3@correo.com",
+      "empresa": "Tornillo de Oro 2",
+      "id": 4
+    }
+  ]
+}
